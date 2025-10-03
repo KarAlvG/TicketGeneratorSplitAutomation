@@ -1,0 +1,14 @@
+C:\Microsoft_Training\CsharpProjects\TicketGenerator\obj\Debug\net9.0\TicketGenerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Microsoft_Training\CsharpProjects\TicketGenerator\obj\Debug\net9.0\TicketGenerator.AssemblyInfoInputs.cache
+C:\Microsoft_Training\CsharpProjects\TicketGenerator\obj\Debug\net9.0\TicketGenerator.AssemblyInfo.cs
+C:\Microsoft_Training\CsharpProjects\TicketGenerator\obj\Debug\net9.0\TicketGenerator.csproj.CoreCompileInputs.cache
+C:\Microsoft_Training\CsharpProjects\TicketGenerator\bin\Debug\net9.0\TicketGenerator.exe
+C:\Microsoft_Training\CsharpProjects\TicketGenerator\bin\Debug\net9.0\TicketGenerator.deps.json
+C:\Microsoft_Training\CsharpProjects\TicketGenerator\bin\Debug\net9.0\TicketGenerator.runtimeconfig.json
+C:\Microsoft_Training\CsharpProjects\TicketGenerator\bin\Debug\net9.0\TicketGenerator.dll
+C:\Microsoft_Training\CsharpProjects\TicketGenerator\bin\Debug\net9.0\TicketGenerator.pdb
+C:\Microsoft_Training\CsharpProjects\TicketGenerator\obj\Debug\net9.0\TicketGenerator.dll
+C:\Microsoft_Training\CsharpProjects\TicketGenerator\obj\Debug\net9.0\refint\TicketGenerator.dll
+C:\Microsoft_Training\CsharpProjects\TicketGenerator\obj\Debug\net9.0\TicketGenerator.pdb
+C:\Microsoft_Training\CsharpProjects\TicketGenerator\obj\Debug\net9.0\TicketGenerator.genruntimeconfig.cache
+C:\Microsoft_Training\CsharpProjects\TicketGenerator\obj\Debug\net9.0\ref\TicketGenerator.dll
